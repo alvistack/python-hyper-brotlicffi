@@ -1,0 +1,5 @@
+python-brotlipy source: file-without-copyright-information
+python-brotlipy source: no-debian-changes
+python-brotlipy source: source-contains-prebuilt-windows-binary
+python-brotlipy source: source-is-missing
+python-brotlipy source: source-package-encodes-python-version

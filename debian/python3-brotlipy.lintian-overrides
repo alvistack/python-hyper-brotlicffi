@@ -1,0 +1,4 @@
+python3-brotlipy: copyright-without-copyright-notice
+python3-brotlipy: initial-upload-closes-no-bugs
+python3-brotlipy: no-manual-page
+python3-brotlipy: zero-byte-file-in-doc-directory
